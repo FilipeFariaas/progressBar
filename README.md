@@ -1,6 +1,6 @@
 # JS PROGRESS BAR
 
-Simple progress bar animation using HTML5, CSS3 and JavaScript.
+Simple progress bar animation using HTML5, CSS3 and JavaScript. You can access it by clicking [here](https://filipefariaas.github.io/progressBar/).
 
 ![image](https://user-images.githubusercontent.com/53542646/130239459-b79641c2-cc17-4270-a418-819e9b923f99.png)
 
