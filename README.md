@@ -2,7 +2,7 @@
 
 Simple progress bar animation using HTML5, CSS3 and JavaScript.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77291c30-e4b7-47dc-99a7-c8ced87ced36/Untitled.png)
+![image](https://user-images.githubusercontent.com/53542646/130239459-b79641c2-cc17-4270-a418-819e9b923f99.png)
 
 ## 🤝 CONTRIBUTORS
 
